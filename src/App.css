@@ -1,0 +1,15 @@
+.menu{
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 50px;
+  font-size: 25px;
+  font-weight: 600;
+}
+a{
+ text-decoration: none;
+}
+.App{
+  margin: 20px;
+}
