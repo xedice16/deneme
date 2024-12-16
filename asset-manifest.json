@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deneme/static/css/main.862b8544.css",
+    "main.js": "/deneme/static/js/main.2ba05ec4.js",
+    "index.html": "/deneme/index.html",
+    "main.862b8544.css.map": "/deneme/static/css/main.862b8544.css.map",
+    "main.2ba05ec4.js.map": "/deneme/static/js/main.2ba05ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.862b8544.css",
+    "static/js/main.2ba05ec4.js"
+  ]
+}
